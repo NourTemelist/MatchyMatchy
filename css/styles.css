@@ -711,6 +711,7 @@ input[type='checkbox'] {
 
 .navbar-custom .dropdown-item:hover .item-text {
 	color: #ff556e;
+
 }
 
 .navbar-custom .dropdown-divider {
@@ -884,15 +885,24 @@ input[type='checkbox'] {
 .basic-1 {
 	padding-top: 3rem;
 	padding-bottom: 8rem;
-	background-color: #f7fafd;
+	background-color: #e8eff6;
 }
 
 .basic-1 .image-container {
 	margin-bottom: 5rem;
+	margin-top: 13rem;
+}
+
+.basic-1 img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
 }
 
 .basic-1 h2 {
 	margin-bottom: 1.5rem;
+	margin-top: 10rem;
 }
 
 .basic-1 .list-unstyled {
